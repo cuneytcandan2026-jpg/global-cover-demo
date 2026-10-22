@@ -1,0 +1,20 @@
+{
+  "name": "Global Cover",
+  "short_name": "Global Cover",
+  "start_url": "/global-cover-demo/",
+  "display": "browser",
+  "background_color": "#0B151E",
+  "theme_color": "#0B151E",
+  "icons": [
+    {
+      "src": "/global-cover-demo/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/global-cover-demo/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}

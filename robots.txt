@@ -1,0 +1,3 @@
+# Unpublished client preview. Nothing here is for indexing.
+User-agent: *
+Disallow: /
